@@ -4,7 +4,7 @@ Projeto _simples_ desenvolvido para aprender um pouco mais sobre tailwind no nex
 
 ## Demonstração
 
-Imagem
+![image](https://user-images.githubusercontent.com/103855358/228044023-611d3875-6481-43da-9c6b-c272ae64e14c.png)
 
 ## Stack utilizada
 
